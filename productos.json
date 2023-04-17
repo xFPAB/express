@@ -1,0 +1,92 @@
+[
+	{
+		"id": 1,
+		"title": "Computadora",
+		"description": "Es una computadora",
+		"price": "350000",
+		"thumbnail": "./img/computadora.jpg",
+		"code": 3554,
+		"stock": 5
+	},
+	{
+		"id": 2,
+		"title": "Caballo",
+		"description": "Es un caballo",
+		"price": "500",
+		"thumbnail": "./img/caballo.jpg",
+		"code": 1414,
+		"stock": 1
+	},
+	{
+		"id": 3,
+		"title": "Armadura de plata",
+		"description": "Es una armadura, de plata.",
+		"price": "700",
+		"thumbnail": "./img/armaduradeplata.jpg",
+		"code": 9898,
+		"stock": 3
+	},
+	{
+		"id": 4,
+		"title": "Remolacha shiny",
+		"description": "Es una remolacha shiny",
+		"price": "95000",
+		"thumbnail": "./img/remolachashiny.jpg",
+		"code": 909,
+		"stock": 1
+	},
+	{
+		"id": 5,
+		"title": "Jamon 42",
+		"description": "Es un 1kg de jamon 42",
+		"price": "3000",
+		"thumbnail": "./img/jamon42.jpg",
+		"code": 42,
+		"stock": 5
+	},
+	{
+		"id": 6,
+		"title": "Desodorante Axe",
+		"description": "Es un desodorante rexona (el titulo es clickbait)",
+		"price": "500",
+		"thumbnail": "./img/desodoranterexona.jpg",
+		"code": 9,
+		"stock": 15
+	},
+	{
+		"id": 7,
+		"title": "Cadena de oro",
+		"description": "Es una cadena de oro",
+		"price": "25000",
+		"thumbnail": "./img/cadenadeoro.jpg",
+		"code": 32,
+		"stock": 2
+	},
+	{
+		"id": 8,
+		"title": "Arania",
+		"description": "Es una araña de javascript, no tiene ñ.",
+		"price": "700",
+		"thumbnail": "./img/arania.jpg",
+		"code": 232312,
+		"stock": 1
+	},
+	{
+		"id": 9,
+		"title": "Celular",
+		"description": "Es un celular iphone 25",
+		"price": "950000",
+		"thumbnail": "./img/iphone25.jpg",
+		"code": 5522,
+		"stock": 4
+	},
+	{
+		"id": 10,
+		"title": "Hamburguesa doble cheddar",
+		"description": "Es una hamburguesa doble cheddar",
+		"price": "2350",
+		"thumbnail": "./img/hamburguesadoblecheddar.jpg",
+		"code": 98984,
+		"stock": 10
+	}
+]
